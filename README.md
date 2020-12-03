@@ -1,4 +1,4 @@
-# objectdetionbyyolov3
+# objectdetectionbyyolov3
 
 ------
 
